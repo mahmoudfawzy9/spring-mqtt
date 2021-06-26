@@ -1,4 +1,4 @@
-package com.mohey.mqtt.core;
+package com.mahmoud.mqtt.core;
 
 import org.eclipse.paho.mqttv5.common.MqttException;
 import org.eclipse.paho.mqttv5.common.MqttMessage;
