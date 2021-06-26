@@ -1,4 +1,4 @@
-package com.mohey.mqtt.core;
+package com.mahmoud.mqtt.core;
 
 /**
  * @author Mahmoud Fawzy
